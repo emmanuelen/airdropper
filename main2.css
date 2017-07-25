@@ -1,0 +1,36 @@
+html {
+    font-family: 'Droid Serif', serif;
+    font-size: 16pt;
+}
+
+h1 {
+    font-family: 'Cabin', sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    border-bottom: 4pt solid yellow;
+    padding-left:  3pt;
+    padding-right: 3pt;
+}
+
+a:hover {
+    border-bottom-color: yellow;
+    background-color: yellow ;
+    padding-left:  3pt;
+    padding-right: 3pt;
+}
+
+a:active {
+    border-bottom-color: #ffd632;
+    background-color: #ffd632 ;
+}
+
+article {
+    padding-left:  20pt;
+    padding-right: 20pt;
+}
