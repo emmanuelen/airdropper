@@ -25,11 +25,6 @@ a:hover {
     padding-right: 3pt;
 }
 
-a:active {
-    border-bottom-color: #ffd632;
-    background-color: #ffd632 ;
-}
-
 article {
     padding-left:  20pt;
     padding-right: 20pt;
